@@ -15,8 +15,6 @@ library(pastecs)
 
 Ce document s'intéresse à la production de bière en Australie.
 
-efficacité d'un médicament sur la baisse de la réduction de l'activité cérébrale.
-
 # Contexte
 
 La production mensuelle de bière en mégalitres est encodée mensuellement depuis 1956.
