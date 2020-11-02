@@ -13,7 +13,7 @@ Ce projets va être corrigé par une série de tests automatiques simples. La r�
 Complétez les deux fichiers suivants : 
 
 - complétez le fichier `schizo.Rmd` du dossier `docs`
-- compléter le fichier `.Rmd` du dossier `docs`
+- compléter le fichier `beer.Rmd` du dossier `docs`
 
 Ce projet **individuel** est un projet **court** et **cadré**.
 
